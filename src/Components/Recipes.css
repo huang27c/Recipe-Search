@@ -1,0 +1,12 @@
+.search-form{
+    min-height: 10vh;
+}
+
+.search-bar{
+    width: 50%;
+    padding: 10px;
+}
+
+.search-button{
+    border: none;
+}
